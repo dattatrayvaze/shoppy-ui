@@ -1,0 +1,41 @@
+.pin {
+  margin: 5px;
+  left: 930px;
+  top: 10px;
+  position: absolute;  
+  display: flex;
+  
+}
+
+.pin:hover{
+  color: #68D4F8;
+}
+
+.txt{
+  position: absolute;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 36px;
+  text-align: center;
+  color: white;  
+  margin-left: 5px;
+  display: inline-block;
+  left: 983px;
+  top:30px ;
+}
+
+.pin .loc{
+  color: white;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  height: 33px;
+  width: 22px;
+}
+
+.pin .loc :hover{
+    color: #68D4F8;
+}
+
