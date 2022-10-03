@@ -1,0 +1,14 @@
+.items {
+  width: 390px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+  background: #1E1E1E;
+}
+
+.items:hover {
+  color: #1E1E1E;
+  background: #68D4F8;
+}

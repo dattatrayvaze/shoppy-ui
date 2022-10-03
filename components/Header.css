@@ -1,0 +1,81 @@
+.head {
+  position: absolute;
+  width: 1687px;
+  height: 120px;
+  left: 0px;
+  top: -8px;
+  background: #000000;
+}
+.logo {
+  position: absolute;
+  width: 95px;
+  height: 80px;
+  left: 25px;
+  top: 23px;
+}
+
+.menu {
+  color: white;
+  position: absolute;
+  width: 108px;
+  height: 53px;
+  left: 158px;
+  top: 35px;
+}
+.menu:hover {
+  color: #68d4f8;
+}
+
+.login {
+  color: white;
+  position: absolute;
+  width: 108px;
+  height: 53px;
+  left: 1090px;
+  top: 35px;
+}
+.login:hover {
+  color: #68d4f8;
+}
+
+.cart {
+  color: white;
+  position: absolute;
+  width: 108px;
+  height: 53px;
+  left: 1190px;
+  top: 35px;
+}
+.cart:hover {
+  color: #68d4f8;
+}
+
+.search {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 512px;
+  height: 50px;
+  left: 345px;
+  top: 38px;
+
+  background: #fcfcfc;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+.srch{
+    width: 30px;
+    height: 46px;
+    margin-left: 470px;
+    color: #ABABAB;
+    display: inline-block;
+    
+ }
+
+ .st{
+    color:#ABABAB;
+    margin-left: 15px;
+    margin-top: 13px;
+    position: absolute;
+    display: inline-block;
+ }
