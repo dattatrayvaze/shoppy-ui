@@ -1,0 +1,30 @@
+body{
+    overflow: hidden;
+}
+.heading{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 2rem;
+    text-align: left;
+    color: #0f0f0f;
+}
+.cards {
+    display: flex;
+    width: 100vw;
+    padding: 0px 10px;
+}
+.cards .card {
+    width: 15vw;
+    max-height: 50vh;
+    text-align: center;
+    border: 1px solid #0f0f0f;
+    overflow: hidden;
+    margin: 10px;
+}
+.cards .card img{
+    width: 15vw;
+}
+.cards .card .categoryname{
+    font-size: 1rem;
+    color: #0f0f0f;
+}
