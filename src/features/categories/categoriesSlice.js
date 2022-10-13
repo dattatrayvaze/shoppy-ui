@@ -45,7 +45,7 @@ const categoriesSlice = createSlice({
   },
 });
 
-export const category = (state) => state.category.categories;
+export const category = (state) => state.category.category;
 export const errorMsg = (state) => state.category.error;
 
 export default categoriesSlice.reducer;
